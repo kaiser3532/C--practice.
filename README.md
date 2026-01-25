@@ -2,7 +2,7 @@
 
 This repository contains my daily practice code while learning **C++ from scratch**.
 
-## 📘 Topics Covered
+##  Topics Covered
 - Variables and input/output
 - Global vs local variables
 - Scope resolution operator (`::`)
@@ -10,17 +10,17 @@ This repository contains my daily practice code while learning **C++ from scratc
 - Reference variables
 - Typecasting in C++
 
-## 🧠 Purpose
+##  Purpose
 - To strengthen my C++ fundamentals
 - To track my daily learning progress
 - To revise concepts easily in the future
 
-## 🛠️ Tools Used
+##  Tools Used
 - C++
 - VS Code
 - GitHub
 
-## 👤 Author
+##  Author
 **Kaiser Ahmad Malik**
 
-Beginner C++ Learner 🚀
+Beginner C++ Learner 
