@@ -12,6 +12,7 @@ This repository contains my daily practice code while learning **C++ from scratc
 - CONSTANTS
 - MANIPULATORS
 - OPERATOR PRECEDENCE
+- CONTROL STRUCTURES(if_else, switch)
 
 ##  Purpose
 - To strengthen my C++ fundamentals
