@@ -9,6 +9,9 @@ This repository contains my daily practice code while learning **C++ from scratc
 - Float, double, and long double literals
 - Reference variables
 - Typecasting in C++
+- CONSTANTS
+- MANIPULATORS
+- OPERATOR PRECEDENCE
 
 ##  Purpose
 - To strengthen my C++ fundamentals
